@@ -6,7 +6,11 @@ public class Start {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo");
 		System.out.println("Master hola");
+<<<<<<< HEAD
 		System.out.println("Persona hola");
+=======
+		System.out.println("Coche hola");
+>>>>>>> refs/heads/coches
 	}
 
 }
