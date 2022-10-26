@@ -9,6 +9,8 @@ public class Start {
 		System.out.println("Persona hola");
 		System.out.println("Coche hola");
 		System.out.println("adios");
+		
+		;;
 
 	}
 
