@@ -10,7 +10,7 @@ public class Start {
 		System.out.println("Coche hola");
 		System.out.println("adios");
 		
-		
+		;
 
 	}
 
